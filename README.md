@@ -56,6 +56,12 @@ At the end of the page, I added a simple footer with copyright:
 3.JavaScript 
 4.Bootstrap 5
 
+Screenshots of the output:-
+
+![Image](https://github.com/user-attachments/assets/cf9e367b-0928-4939-91ec-d98614761d38)
+
+![Image](https://github.com/user-attachments/assets/44e53ad4-c64e-4411-80ea-07e98b4c8082)
+
 
 
 
