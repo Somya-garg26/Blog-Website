@@ -47,7 +47,7 @@ I used Bootstrap’s card component in a grid layout to display blog topics. Eac
 5. Footer Section
 At the end of the page, I added a simple footer with copyright:
 <footer class="blog-footer">
-  <p>Copyright 2023 @Coding Blog</p>
+  <p>Copyright 2025 @Coding Blog</p>
 </footer>
 
 ##Technologies Used
